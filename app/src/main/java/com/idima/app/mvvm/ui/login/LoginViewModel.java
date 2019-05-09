@@ -9,7 +9,7 @@ import com.idima.app.mvvm.utils.rx.SchedulerProvider;
 import com.idima.app.mvvm.ui.base.BaseViewModel;
 
 /**
- * Created by amitshekhar on 08/07/17.
+ * Created by idima on 08/07/17.
  */
 
 public class LoginViewModel extends BaseViewModel<LoginNavigator> {

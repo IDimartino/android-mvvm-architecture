@@ -1,7 +1,7 @@
 package com.idima.app.mvvm.ui.main;
 
 /**
- * Created by amitshekhar on 09/07/17.
+ * Created by idima on 09/07/17.
  */
 
 public interface MainNavigator {

@@ -14,7 +14,7 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 
 /**
- * Created by amitshekhar on 11/07/17.
+ * Created by idima on 11/07/17.
  */
 
 @RunWith(AndroidJUnit4.class)

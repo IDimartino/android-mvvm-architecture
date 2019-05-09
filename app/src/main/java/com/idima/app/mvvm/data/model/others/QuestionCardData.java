@@ -5,7 +5,7 @@ import com.idima.app.mvvm.data.model.db.Question;
 import java.util.List;
 
 /**
- * Created by amitshekhar on 09/07/17.
+ * Created by idima on 09/07/17.
  */
 
 public class QuestionCardData {

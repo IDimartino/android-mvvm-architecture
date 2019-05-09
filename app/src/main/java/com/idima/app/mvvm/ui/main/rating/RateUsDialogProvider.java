@@ -4,7 +4,7 @@ import dagger.Module;
 import dagger.android.ContributesAndroidInjector;
 
 /**
- * Created by amitshekhar on 14/09/17.
+ * Created by idima on 14/09/17.
  */
 @Module
 public abstract class RateUsDialogProvider {

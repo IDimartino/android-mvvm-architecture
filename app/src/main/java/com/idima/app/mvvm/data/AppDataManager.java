@@ -28,7 +28,7 @@ import javax.inject.Inject;
 import javax.inject.Singleton;
 
 /**
- * Created by amitshekhar on 07/07/17.
+ * Created by idima on 07/07/17.
  */
 @Singleton
 public class AppDataManager implements DataManager {

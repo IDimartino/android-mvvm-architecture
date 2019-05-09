@@ -3,7 +3,7 @@ package com.idima.app.mvvm.data.local.prefs;
 import com.idima.app.mvvm.data.DataManager;
 
 /**
- * Created by amitshekhar on 07/07/17.
+ * Created by idima on 07/07/17.
  */
 
 public interface PreferencesHelper {

@@ -11,7 +11,7 @@ import com.idima.app.mvvm.data.model.db.User;
 import java.util.List;
 
 /**
- * Created by amitshekhar on 07/07/17.
+ * Created by idima on 07/07/17.
  */
 
 @Dao

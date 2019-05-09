@@ -8,7 +8,7 @@ import com.idima.app.mvvm.data.model.api.OpenSourceResponse;
 import io.reactivex.Single;
 
 /**
- * Created by amitshekhar on 07/07/17.
+ * Created by idima on 07/07/17.
  */
 
 public interface ApiHelper {

@@ -9,7 +9,7 @@ import io.reactivex.Observable;
 import java.util.List;
 
 /**
- * Created by amitshekhar on 07/07/17.
+ * Created by idima on 07/07/17.
  */
 
 public interface DataManager extends DbHelper, PreferencesHelper, ApiHelper {

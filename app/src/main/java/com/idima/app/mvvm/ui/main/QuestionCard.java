@@ -14,7 +14,7 @@ import com.mindorks.placeholderview.annotations.Resolve;
 import com.mindorks.placeholderview.annotations.View;
 
 /**
- * Created by amitshekhar on 08/07/17.
+ * Created by idima on 08/07/17.
  */
 
 @NonReusable

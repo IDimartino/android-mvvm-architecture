@@ -10,7 +10,7 @@ import com.idima.app.mvvm.di.PreferenceInfo;
 import javax.inject.Inject;
 
 /**
- * Created by amitshekhar on 07/07/17.
+ * Created by idima on 07/07/17.
  */
 
 public class AppPreferencesHelper implements PreferencesHelper {
