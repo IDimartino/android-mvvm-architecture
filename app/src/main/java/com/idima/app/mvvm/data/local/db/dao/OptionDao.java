@@ -10,7 +10,7 @@ import com.idima.app.mvvm.data.model.db.Option;
 import java.util.List;
 
 /**
- * Created by amitshekhar on 08/07/17.
+ * Created by idima on 08/07/17.
  */
 @Dao
 public interface OptionDao {
